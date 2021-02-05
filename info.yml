@@ -6,7 +6,7 @@ project:
     pivotal:
       url: 'https://www.pivotaltracker.com/n/projects/2487867'
     heroku:
-      url: 'https://cs370-test-app.herokuapp.com/'
+      appId: 'cs370-test-app'
     travis:
       url: 'https://travis-ci.com/github/nociza/sample169app'
   members:
