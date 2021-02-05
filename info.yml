@@ -4,12 +4,11 @@ project:
   teamId: 2
   identities:
     pivotal:
-      url: https://www.pivotaltracker.com/n/projects/2317313
+      url: https://www.pivotaltracker.com/projects/2487867
     heroku:
       url: https://national-map.herokuapp.com/
     travis:
       url: https://www.travis-ci.com/github/nociza/sample169app/jobs/480530687
-  members:
     member1:
       name: Hiroshi
       surname: Usui
