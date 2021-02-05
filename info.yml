@@ -6,7 +6,7 @@ project:
     pivotal:
       url: https://www.pivotaltracker.com/projects/2487867
     heroku:
-      url: https://cs370-test-app.herokuapp.com
+      url: https://national-map.herokuapp.com/
     travis:
       url: https://www.travis-ci.com/github/nociza/sample169app/jobs/480530687
   members:
