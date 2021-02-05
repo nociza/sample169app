@@ -1,18 +1,18 @@
 project:
-  name: q2q
-  owner: cs169
-  teamId: "2"
+  name: 'q2q'
+  owner: 'cs169'
+  teamId: '2'
   identities:
     pivotal:
-      url: 'https://www.pivotaltracker.com/projects/2487867'
+      url: 'https://www.pivotaltracker.com/n/projects/2487867'
     heroku:
       url: 'https://cs370-test-app.herokuapp.com'
     travis:
-      url: 'https://www.travis-ci.com/github/nociza/sample169app/jobs/480530687'
+      url: 'https://travis-ci.com/github/nociza/sample169app'
   members:
     member1:
-      name: 'Hiroshi'
-      surname: 'Usui'
-      githubUsername: 'hi-usui'
-      pivotalUsername: 'usui1'
+      name: 'Saahil'
+      surname: 'Chadha' 
+      githubUsername: 'saahilchadha1'
+      pivotalUsername: 'saahilc'
       herokuEmail: 'saahil301@gmail.com'
