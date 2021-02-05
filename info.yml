@@ -1,7 +1,7 @@
 project:
   name: q2q
   owner: cs169
-  teamId: 2
+  teamId: "2"
   identities:
     pivotal:
       url: https://www.pivotaltracker.com/projects/2487867
