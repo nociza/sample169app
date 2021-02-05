@@ -8,7 +8,7 @@ project:
     heroku:
       url: https://cs370-test-app.herokuapp.com
     travis:
-      url: https://www.travis-ci.com/github/nociza/sample169app/jobs/480530687
+      url: https://www.travis-ci.com/github/nociza/sample169app
   members:
     member1:
       name: Hiroshi
