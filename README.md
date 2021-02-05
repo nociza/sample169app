@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Bluejay credentials:
+user/bluejay
+[![Bluejay Dashboard](https://img.shields.io/badge/bluejay-dashboard_2-blue.svg)](http://dashboard.bluejay.governify.io/dashboard/script/dashboardLoader.js?dashboardURL=https://reporter.bluejay.governify.io/api/v4/dashboards/tpa-CS169L-GH-nociza_sample169app/main)
