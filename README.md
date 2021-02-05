@@ -1,7 +1,9 @@
 # README
-[![Build Status](https://www.travis-ci.com/nociza/sample169app.svg?branch=main)](https://www.travis-ci.com/nociza/sample169app)
+[![Build Status](https://www.travis-ci.com/nociza/sample169app.svg?branch=master)](https://www.travis-ci.com/nociza/sample169app)
 This README would normally document whatever steps are necessary to get the
 application up and running.
+
+[![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
 
 Things you may want to cover:
 
@@ -22,3 +24,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Bluejay credentials:
+user/bluejay
+[![Bluejay Dashboard](https://img.shields.io/badge/bluejay-dashboard_2-blue.svg)](http://dashboard.bluejay.governify.io/dashboard/script/dashboardLoader.js?dashboardURL=https://reporter.bluejay.governify.io/api/v4/dashboards/tpa-CS169L-GH-nociza_sample169app/main)
