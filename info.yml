@@ -1,0 +1,18 @@
+project:
+  name: q2q
+  owner: cs169
+  teamId: 2
+  identities:
+    pivotal:
+      url: https://www.pivotaltracker.com/n/projects/2317313
+    heroku:
+      url: https://national-map.herokuapp.com/
+    travis:
+      url: https://www.travis-ci.com/github/nociza/sample169app/jobs/480530687
+  members:
+    member1:
+      name: Hiroshi
+      surname: Usui
+      githubUsername: hi-usui
+      pivotalUsername: usui1
+      herokuEmail: email
